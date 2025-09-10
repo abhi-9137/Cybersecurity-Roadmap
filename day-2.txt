@@ -1,0 +1,27 @@
+today I learned:-
+commands:-
+
+grep- to search keywords.
+grep -E- to search more then one keywords at a time.
+uniq -c- to cout the number of unique lines.
+sort- to sort the lines.
+tail -f- to check real time breaches. 
+wc -l- to count lines.
+wc -c- to count letters.
+wc -w- to count words.
+ls -a- to see hidden files. 
+to create hiiden files by .file.txt.
+chown- to change the owner.
+chmod- to change modes.
+sudo- sudo add user; sudo chown.
+ls -l- to see the permissions.
+cat error.log attacker.log> all_logs.log
+
+Mini project-1
+
+created a director mini_project1
+created 2 logs attacker.log and error.log
+then write 5 breaches in each
+then combine both in one log i.e. all_logs.log 
+catch them by all commands like
+grep,grep-E,sort,uniq-c,tail-f.

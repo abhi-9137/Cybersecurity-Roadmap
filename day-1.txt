@@ -1,0 +1,25 @@
+today I learned Linux commands are:-\
+1>pwd-Use for display directories
+2>ls-list all the directories
+3>cd-change the directory
+4>mkdir-make new directory
+5>rm-remove directory
+6>cat- view file data
+7>cp-
+8>vir-it is editor software
+9>chmod
+1>chown
+11>mv- move the file
+12>touch-create a file
+13>top-an interactive process viewr
+14>echo-to enter in files
+15>whoami-to see who is using
+16>date-to display day date and time
+17>cd ..-to go back to the pervious directory
+18>cd ~- to go to the main directory
+19>uname-os name
+20>sudo su- to go to the root  mode
+21>apt-get update-to update the system
+22>apt-get-f upgrade- to the upgrade the software
+23>history-to get the list of commands used
+24>clear- to clear the screen
